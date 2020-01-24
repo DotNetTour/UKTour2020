@@ -167,7 +167,7 @@ Opensource advocate, .NET dewveloper, FileSystem guru, computer history archivis
 
 ### [Olia Gavrysh](https://twitter.com/oliagavrysh) - The future of Windows desktop and porting to .NET Core
 
-Program manager on .NET team (WinForms, WPF and other areas). Based in Redmond, USA.
+Olia Gavrysh is a program manager on the .NET team, Microsoft. She focuses on desktop applications and porting applications to .NET Core experience. Before that, she was working on machine learning framework for .NET. Based in Redmond, USA.
 
 **Abstract:**
 
