@@ -12,7 +12,7 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 | [Canary Wharf .NET User Group](https://www.meetup.com/Canary-Wharf-NET-User-Group/) (London) | [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
 | [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) (Brighton) | [Irina Scurtu](https://twitter.com/irina_scurtu) - Forget about HTTP <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) - A (very) opinionated guide to MSBuild and Project Files <br/> [Matt Warren](https://twitter.com/matthewwarren) - From 'dotnet run' to 'Hello World!' |
-| [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Martin Beeby](https://twitter.com/thebeebs) <br/> [Natalia Portillo](https://twitter.com/girlyngeek) - Compile once run everywhere: How to syscall three kernels with a single executable |
+| [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Martin Beeby](https://twitter.com/thebeebs) - Building real-time apps with .NET <br/> [Natalia Portillo](https://twitter.com/girlyngeek) - Compile once run everywhere: How to syscall three kernels with a single executable |
 | [.NET South West](https://www.meetup.com/dotnetsouthwest/events/267936028/) (Bristol) | [Tim Seaward](https://twitter.com/timseaw) - Digging into the Bedrock framework <br/> [Dean Ward](https://twitter.com/deanward81) - Building Stack Overflow for Teams |
 | [Milton Keynes .NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) - The History of .NET |
 | [DevOps Notts](https://www.meetup.com/DevOps-Notts/events/266765057/) (Nottingham) | Vishal Vazkar - Building a one stop shop for monitoring and availability <br/> [Martin Woodward](https://twitter.com/martinwoodward) - GitHub actions deep dive |
@@ -139,9 +139,21 @@ This talk will include slides, demos, code samples, live coding and the audience
 
 
 
-### [Martin Beeby](https://twitter.com/thebeebs)
+### [Martin Beeby](https://twitter.com/thebeebs) - Building real-time apps with .NET
 
 Developer Evangelist at AWS working on dotnet and beyond. Based in UK.
+
+As a principal advocate for Amazon Web Services, Martin travels the world showcasing the transformational capabilities of AWS. In his time as an advocate, Martin has spoken at over 250 events and meetups as well as producing, blogs, tutorials and broadcasts.
+
+Martin has been developing applications since he was 16 and over the past 20 years has worked on projects with many major companies and brands.
+
+His primary focus is on .NET applications and has worked as a C# and VB developer since 2001.
+
+Prior to joining AWS, Martin worked for Oracle and Microsoft as a developer evangelist and software development engineer.
+
+**Abstract:**
+
+In this session we will look at a few of ways you can build real-time application in .NET. From SignalR, to Serverless techniques to Blazor. We will look at the challenges of scaling these types of applications and how you can make these applications more resilient.
 
 
 
