@@ -2,10 +2,6 @@
 
 On Tuesday, January 28th 2020 at 6:30pm, members of the .NET community and the Microsoft .NET Team will be hosting multiple concurrent .NET events across the UK.
 
-Preliminary locations and speakers (we may make some changes throughout 1/21).
-
-If you are a **new speaker** (especially from underrepresented groups in tech) and would like to join us on stage, please ping organizers [Karel Zikmund](https://twitter.com/ziki_cz) and/or [Steve Gordon](https://twitter.com/stevejgordon) -- see our [tweet announcement](https://twitter.com/ziki_cz/status/1218204264092225536) for details.
-
 | User Group / Location | Speakers & talks details |
 |-----------------------|--------------------------|
 | [London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/267992448/) | [Olia Gavrysh](https://twitter.com/oliagavrysh) - The future of Windows desktop and porting to .NET Core <br/> [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
@@ -17,15 +13,15 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 | [DevOps Notts](https://www.meetup.com/DevOps-Notts/events/266765057/) (Nottingham) | Vishal Vazkar - Building a one stop shop for monitoring and availability <br/> [Martin Woodward](https://twitter.com/martinwoodward) - GitHub actions deep dive |
 | [Birmingham .Net & Xamarin User Group](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/265178106/) | [Simon Painter](https://twitter.com/madSimonJ) - Hacking C#: Development for the truly lazy |
 
-We plan to record all talks and we will try to live-stream some of the talks - check this page few days before the event for details, or follow organizers on Twitter: [Steve Gordon](https://twitter.com/stevejgordon) and [Karel Zikmund](https://twitter.com/ziki_cz).
+We plan to record most of the talks and we will try to live-stream 2 events - check this page on Monday 1/27 before the event for details, or follow organizers on Twitter: [Steve Gordon](https://twitter.com/stevejgordon) and [Karel Zikmund](https://twitter.com/ziki_cz).
+
+If you are a **new speaker** (especially from underrepresented groups in tech) and would like to join us on stage, please ping organizers [Karel Zikmund](https://twitter.com/ziki_cz) and/or [Steve Gordon](https://twitter.com/stevejgordon) -- see our [tweet announcement](https://twitter.com/ziki_cz/status/1218204264092225536) for details.
 
 
 
 ## About speakers and talks
 
 Speakers listed in alphabetical order.
-
-More details coming soon ...
 
 
 
