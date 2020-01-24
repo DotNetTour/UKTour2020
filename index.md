@@ -145,6 +145,10 @@ Developer Evangelist at AWS working on dotnet and beyond. Based in UK.
 
 Microsoft MVP. Based in UK.
 
+Matt is a C# dev who loves nothing more than finding and fixing performance issues. He’s worked with Azure, ASP.NET MVC and WinForms on projects for storing government weather data, medical monitoring devices and an inspection system that ensured kegs of beer didn’t leak! He’s previously been an Open Source Contributor to BenchmarkDotNet and RavenDB, nowadays he mostly blogs about the 'Internals' of the .NET Runtime at [http://mattwarren.org](http://mattwarren.org).
+
+Matt currently works on the [Contrast Security](http://contrastsecurity.com) and lives near Pinewood Film Studios (home of James Bond) with his wife and 2 kids.
+
 **Abstract:**
 
 Have you ever stopped to think about all the things that happen when you execute a simple .NET program?
