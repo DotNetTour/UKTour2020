@@ -11,7 +11,7 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 | [London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/267992448/) | [Olia Gavrysh](https://twitter.com/oliagavrysh) - The future of Windows desktop and porting to .NET Core <br/> [Diego Colombo](https://twitter.com/colombod) - Introduction to .NET interactive in Jupyter notebooks |
 | [Canary Wharf .NET User Group](https://www.meetup.com/Canary-Wharf-NET-User-Group/) (London) | [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
 | [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) (Brighton) | [Irina Scurtu](https://twitter.com/irina_scurtu) - Forget about HTTP <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
-| [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) - A (very) opinionated guide to MSBuild and Project Files <br/> [Matt Warren](https://twitter.com/matthewwarren) |
+| [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) - A (very) opinionated guide to MSBuild and Project Files <br/> [Matt Warren](https://twitter.com/matthewwarren) - From 'dotnet run' to 'Hello World!' |
 | [Reading .NET](https://www.meetup.com/reading-dot-net/) | [Martin Beeby](https://twitter.com/thebeebs) <br/> [Natalia Portillo](https://twitter.com/girlyngeek) - Compile once run everywhere: How to syscall three kernels with a single executable |
 | [.NET South West](https://www.meetup.com/dotnetsouthwest/events/267936028/) (Bristol) | [Tim Seaward](https://twitter.com/timseaw) - Digging into the Bedrock framework <br/> [Dean Ward](https://twitter.com/deanward81) - Building Stack Overflow for Teams |
 | [Milton Keynes .NET](https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/266750126/) | [Richard Campbell](https://twitter.com/richcampbell) - The History of .NET |
@@ -141,9 +141,17 @@ Developer Evangelist at AWS working on dotnet and beyond. Based in UK.
 
 
 
-### [Matt Warren](https://twitter.com/matthewwarren)
+### [Matt Warren](https://twitter.com/matthewwarren) - From 'dotnet run' to 'Hello World!'
 
 Microsoft MVP. Based in UK.
+
+**Abstract:**
+
+Have you ever stopped to think about all the things that happen when you execute a simple .NET program?
+
+This talk will delve into the internals of the recently open-sourced .NET Core runtime, looking at what happens, when it happens and why.
+
+Making use of freely available tools such as 'PerfView', we'll examine the Execution Engine, Type Loader, Just-in-Time (JIT) Compiler and the CLR Hosting API to see how all these components play a part in making 'Hello World' possible.
 
 
 
