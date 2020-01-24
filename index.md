@@ -68,6 +68,10 @@ Over the past 20 years Diego has been working in lots of different industries us
 
 Microsoft MVP. Based in Romania.
 
+Microsoft MVP for Developer Technologies, Software Architect, CTT+ technical trainer and Microsoft Certified Trainer, always in a quest for latest trends and best practices in architecture, .NET and the world around it.
+
+Irina Scurtu has more than 700 hours of delivered trainings, workshops and presentations, being passionate about domain-driven design and microservices with all their ups and downs. She is the founder of DotNet Iasi User Group where she tries to gather people that are willing to share their knowledge with others.
+
 **Abstract:**
 
 Microservices should be autonomous and independent, but what happens when your business domain doesn’t allow it, and you need to get data from other microservices? You’ll soon realize that simple HTTP calls are not enough anymore, or that your app is more brittle than ever and then you switch to messaging. With messaging you need to have a different mindset and be willing to embrace new challenges.
