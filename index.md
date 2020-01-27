@@ -2,10 +2,12 @@
 
 On Tuesday, January 28th 2020 at 6:30pm, members of the .NET community and the Microsoft .NET Team will be hosting multiple concurrent .NET events across the UK.
 
+The .NET Tour UK 2020 introduction will be [live streamed on YouTube](https://youtu.be/kz9cB2stbjQ) from 6:30 pm.
+
 | User Group / Location | Speakers & talks details |
 |-----------------------|--------------------------|
 | [London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/267992448/) | [Olia Gavrysh](https://twitter.com/oliagavrysh) - The future of Windows desktop and porting to .NET Core <br/> [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services <br/> [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming |
-| [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) (Brighton) | [Irina Scurtu](https://twitter.com/irina_scurtu) - Forget about HTTP <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
+| [.NET South East](https://www.meetup.com/dotnetsoutheast/events/267244937/) (Brighton) <br/> [YouTube Live Stream](https://youtu.be/kz9cB2stbjQ) | [Irina Scurtu](https://twitter.com/irina_scurtu) - Forget about HTTP <br/> [Karel Zikmund](https://twitter.com/ziki_cz) - Async demystified |
 | [.NET Oxford](https://www.meetup.com/dotnetoxford/events/267776292/) | [David Wengier](https://twitter.com/davidwengier) - A (very) opinionated guide to MSBuild and Project Files <br/> [Matt Warren](https://twitter.com/matthewwarren) - From 'dotnet run' to 'Hello World!' |
 | [Reading .NET](https://www.meetup.com/reading-dot-net/events/268056236/) | [Martin Beeby](https://twitter.com/thebeebs) - Building real-time apps with .NET <br/> [Natalia Portillo](https://twitter.com/girlyngeek) - Compile once run everywhere: How to syscall three kernels with a single executable <br/> [Diego Colombo](https://twitter.com/colombod) - Introduction to .NET interactive in Jupyter notebooks |
 | [.NET South West](https://www.meetup.com/dotnetsouthwest/events/267936028/) (Bristol) | [Tim Seaward](https://twitter.com/timseaw) - Digging into the Bedrock framework <br/> [Dean Ward](https://twitter.com/deanward81) - Building Stack Overflow for Teams |
