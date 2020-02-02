@@ -19,7 +19,11 @@ We plan to record most of the talks and we will try to live-stream 2 events - ch
 
 If you are a **new speaker** (especially from underrepresented groups in tech) and would like to join us on stage, please ping organizers [Karel Zikmund](https://twitter.com/ziki_cz) and/or [Steve Gordon](https://twitter.com/stevejgordon) -- see our [tweet announcement](https://twitter.com/ziki_cz/status/1218204264092225536) for details.
 
+## Videos
 
+Here you can find the recordings of the talks:
+- [Tim Seaward - Digging into the Bedrock framework](https://youtu.be/eS2ozPYPKRk)
+- [Dean Ward - Building Stack Overflow for Teams](https://youtu.be/8g_Deli9Og0)
 
 ## About speakers and talks
 
@@ -40,6 +44,8 @@ In this session we’ll dive into SDK-style project files and MSBuild to show yo
 
 
 ### [Dean Ward](https://twitter.com/deanward81) - Building Stack Overflow for Teams
+
+[📹 Video](https://youtu.be/8g_Deli9Og0)
 
 Principal developer on the Architecture Team at Stack Overflow working remotely out of Brighton, UK.
 
@@ -218,6 +224,8 @@ What's the alternative? In this talk, I'll demonstrate a way of working that avo
 
 
 ### [Tim Seaward](https://twitter.com/timseaw) - Digging into the Bedrock framework
+
+[📹 Video](https://youtu.be/eS2ozPYPKRk)
 
 By day works in a place that he can't mention on electronic trading things he can't talk about. By night a .NET open source contributor that loves all things networking and protocols . Based in UK.
 
