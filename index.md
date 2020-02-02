@@ -24,6 +24,9 @@ If you are a **new speaker** (especially from underrepresented groups in tech) a
 Here you can find the recordings of the talks:
 - [Tim Seaward - Digging into the Bedrock framework](https://youtu.be/eS2ozPYPKRk)
 - [Dean Ward - Building Stack Overflow for Teams](https://youtu.be/8g_Deli9Og0)
+- [Luce Carter - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services](https://youtu.be/xP0xcjNj1GY)
+- [Isaac Abraham - SAFE Stack - The Pit of Success for Functional Web Programming](https://youtu.be/xP0xcjNj1GY?t=3676)
+- [Olia Gavrysh - The future of Windows desktop and porting to .NET Core](https://youtu.be/xP0xcjNj1GY?t=6730)
 
 ## About speakers and talks
 
@@ -85,6 +88,8 @@ In this session, we’ll see what other options we have and we’ll talk about t
 
 ### [Isaac Abraham](https://twitter.com/isaac_abraham) - SAFE Stack - The Pit of Success for Functional Web Programming
 
+[📹 Video](https://youtu.be/xP0xcjNj1GY?t=3676)
+
 F# MVP, .NET and Azure consultant. Based in Germany.
 
 Isaac Abraham is an. NET MVP and a .NET developer since .NET 1.0 with an interest in cloud computing and distributed data problems. He is the author of Get Programming with F# and is the director of Compositional IT. He specializes in consultancy, training and development, helping customers adopt high-quality, functional-first solutions on the .NET platform.
@@ -123,6 +128,8 @@ The talk will cover:
 
 
 ### [Luce Carter](https://twitter.com/LuceCarter1) - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services
+
+[📹 Video](https://youtu.be/xP0xcjNj1GY)
 
 Luce is a Microsoft MVP, Twilio Champion and lover of code, sunshine and trains, based in Manchester, England.
 
@@ -185,6 +192,8 @@ Opensource advocate, .NET dewveloper, FileSystem guru, computer history archivis
 
 
 ### [Olia Gavrysh](https://twitter.com/oliagavrysh) - The future of Windows desktop and porting to .NET Core
+
+[📹 Video](https://youtu.be/xP0xcjNj1GY?t=6730)
 
 Olia Gavrysh is a program manager on the .NET team, Microsoft. She focuses on desktop applications and porting applications to .NET Core experience. Before that, she was working on machine learning framework for .NET. Based in Redmond, USA.
 
