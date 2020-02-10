@@ -27,6 +27,7 @@ Here you can find the recordings of the talks:
 - [Luce Carter - Zero to Mobile Hero - Intro to Xamarin and Cognitive Services](https://youtu.be/xP0xcjNj1GY)
 - [Isaac Abraham - SAFE Stack - The Pit of Success for Functional Web Programming](https://youtu.be/xP0xcjNj1GY?t=3676)
 - [Olia Gavrysh - The future of Windows desktop and porting to .NET Core](https://youtu.be/xP0xcjNj1GY?t=6730)
+- [David Wengier - A (very) opinionated guide to MSBuild and Project Files](https://youtu.be/5HEbsyU5E1g)
 
 ## About speakers and talks
 
@@ -35,6 +36,8 @@ Speakers listed in alphabetical order.
 
 
 ### [David Wengier](https://twitter.com/davidwengier) - A (very) opinionated guide to MSBuild and Project Files
+
+[📹 Video]((https://youtu.be/5HEbsyU5E1g))
 
 Developer on the .NET Project System in Visual Studio team at Microsoft. Based in Melbourne, Australia, mostly interested in C#, good design and Lego Technic and Creator Expert cars. He can be found tweeting at @davidwengier, streaming at https://twitch.tv/davidwengier, helping to organize the DDD Melbourne conference, and on about a half dozen different slacks.
 
