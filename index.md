@@ -37,7 +37,7 @@ Speakers listed in alphabetical order.
 
 ### [David Wengier](https://twitter.com/davidwengier) - A (very) opinionated guide to MSBuild and Project Files
 
-[📹 Video]((https://youtu.be/5HEbsyU5E1g))
+[📹 Video](https://youtu.be/5HEbsyU5E1g)
 
 Developer on the .NET Project System in Visual Studio team at Microsoft. Based in Melbourne, Australia, mostly interested in C#, good design and Lego Technic and Creator Expert cars. He can be found tweeting at @davidwengier, streaming at https://twitch.tv/davidwengier, helping to organize the DDD Melbourne conference, and on about a half dozen different slacks.
 
