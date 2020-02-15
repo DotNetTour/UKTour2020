@@ -28,6 +28,7 @@ Here you can find the recordings of the talks:
 - [Isaac Abraham - SAFE Stack - The Pit of Success for Functional Web Programming](https://youtu.be/xP0xcjNj1GY?t=3676)
 - [Olia Gavrysh - The future of Windows desktop and porting to .NET Core](https://youtu.be/xP0xcjNj1GY?t=6730)
 - [David Wengier - A (very) opinionated guide to MSBuild and Project Files](https://youtu.be/5HEbsyU5E1g)
+- [Matt Warren - From 'dotnet run' to 'Hello World!'](https://youtu.be/378nXIxGAoU)
 
 ## About speakers and talks
 
@@ -171,6 +172,8 @@ In this session we will look at a few of ways you can build real-time applicatio
 
 
 ### [Matt Warren](https://twitter.com/matthewwarren) - From 'dotnet run' to 'Hello World!'
+
+[📹 Video](https://youtu.be/378nXIxGAoU)
 
 Microsoft MVP. Based in UK.
 
